@@ -1,4 +1,4 @@
-# Project 2: University Recommendation System - an RShiny app development project
+# University Recommendation System - an RShiny app development project
 
 ### [Project Description](doc/project2_desc.md)
 
@@ -13,12 +13,6 @@ https://jasonzishuoli.shinyapps.io/mergedebug/
 
 ![screenshot](doc/Screen Shot 1.png)
 
-+ Team # 13
-	+ Han Ke
-	+ Li Zishuo
-	+ Nie kexin
-	+ Yu Shan
-	+ Zhou Chengcen
 
 + Project Goals
 
