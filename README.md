@@ -13,6 +13,8 @@ https://jasonzishuoli.shinyapps.io/mergedebug/
 
 ![screenshot](https://github.com/ZishuoLi/University-Recommendation-System/blob/master/doc/Screen%20Shot%201.png)
 
+![screenshot](https://github.com/ZishuoLi/University-Recommendation-System/blob/master/doc/Picture1.png)
+
 
 + Project Goals
 
