@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-## US University Recommendation System (Term: Spring 2017)
+## US University Recommendation System
 
 Current version of the shiny, 
 
